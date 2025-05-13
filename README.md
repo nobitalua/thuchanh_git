@@ -1,2 +1,2 @@
 owner sua file
-owver sua tiep ne
+dev1 sua file luon
